@@ -13,7 +13,3 @@ def create_sample_df():
 
 
 create_sample_df()
-
-# COMMAND ----------
-
-
