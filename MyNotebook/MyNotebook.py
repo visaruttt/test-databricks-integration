@@ -1,18 +1,6 @@
 # Databricks notebook source
-def hoge(i):
-  return 'hoge'*i
-
-def fuga(i):
-  return 'fuga'*i
-
-# COMMAND ----------
-
-hoge(10)
-
-# COMMAND ----------
-
-fuga(10)
-
-# COMMAND ----------
+def simple_repeat_word(i):
+    return 'wording ' * i
 
 
+print(simple_repeat_word(10))
