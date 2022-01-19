@@ -4,3 +4,7 @@ def simple_repeat_word(i):
 
 
 print(simple_repeat_word(10))
+
+# COMMAND ----------
+
+
